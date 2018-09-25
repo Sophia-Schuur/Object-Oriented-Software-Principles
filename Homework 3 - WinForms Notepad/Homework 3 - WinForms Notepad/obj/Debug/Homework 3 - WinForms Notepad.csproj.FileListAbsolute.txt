@@ -1,0 +1,10 @@
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\bin\Debug\Homework 3 - WinForms Notepad.exe.config
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\bin\Debug\Homework 3 - WinForms Notepad.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\bin\Debug\Homework 3 - WinForms Notepad.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\obj\Debug\Homework 3 - WinForms Notepad.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\obj\Debug\Homework_3___WinForms_Notepad.Form1.resources
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\obj\Debug\Homework_3___WinForms_Notepad.Properties.Resources.resources
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\obj\Debug\Homework 3 - WinForms Notepad.csproj.GenerateResource.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\obj\Debug\Homework 3 - WinForms Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\obj\Debug\Homework 3 - WinForms Notepad.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 3 - WinForms Notepad\Homework 3 - WinForms Notepad\obj\Debug\Homework 3 - WinForms Notepad.pdb

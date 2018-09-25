@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1- BSTree", "HW1- BSTree\HW1- BSTree.csproj", "{FDBA4A2C-2DB9-4093-889D-2C6F94DF797E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBA4A2C-2DB9-4093-889D-2C6F94DF797E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBA4A2C-2DB9-4093-889D-2C6F94DF797E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBA4A2C-2DB9-4093-889D-2C6F94DF797E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBA4A2C-2DB9-4093-889D-2C6F94DF797E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D310EA0-D1BF-47C3-BD0F-F5E4254637BF}
+	EndGlobalSection
+EndGlobal

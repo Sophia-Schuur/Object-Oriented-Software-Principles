@@ -1,0 +1,14 @@
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321\HW1- BSTree\HW1- BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.exe.config
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321\HW1- BSTree\HW1- BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321\HW1- BSTree\HW1- BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321\HW1- BSTree\HW1- BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321\HW1- BSTree\HW1- BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321\HW1- BSTree\HW1- BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321\HW1- BSTree\HW1- BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.exe.config
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 1 - BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 1 - BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 1 - BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 1 - BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.pdb

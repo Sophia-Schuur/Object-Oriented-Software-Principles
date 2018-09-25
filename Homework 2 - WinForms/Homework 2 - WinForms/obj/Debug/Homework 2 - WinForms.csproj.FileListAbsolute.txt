@@ -1,0 +1,20 @@
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\bin\Debug\Homework 2 - WinForms.exe.config
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\bin\Debug\Homework 2 - WinForms.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\bin\Debug\Homework 2 - WinForms.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework_2___WinForms.Form1.resources
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework_2___WinForms.Properties.Resources.resources
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.csproj.GenerateResource.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\WinForms\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\bin\Debug\Homework 2 - WinForms.exe.config
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\bin\Debug\Homework 2 - WinForms.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\bin\Debug\Homework 2 - WinForms.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework_2___WinForms.Form1.resources
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework_2___WinForms.Properties.Resources.resources
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.csproj.GenerateResource.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\Homework 2 - WinForms\Homework 2 - WinForms\obj\Debug\Homework 2 - WinForms.pdb
