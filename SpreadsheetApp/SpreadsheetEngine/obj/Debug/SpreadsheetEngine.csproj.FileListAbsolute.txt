@@ -1,0 +1,6 @@
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
