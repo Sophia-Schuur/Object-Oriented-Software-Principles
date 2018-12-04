@@ -1,0 +1,10 @@
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\bin\Debug\Menu.exe.config
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\bin\Debug\Menu.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\bin\Debug\Menu.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\obj\Debug\Menu.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\SpreadsheetApp\Menu\obj\Debug\Menu.pdb

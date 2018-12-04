@@ -1,0 +1,7 @@
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\HW10 - MergeSort\HW10 - MergeSort\bin\Debug\HW10 - MergeSort.exe.config
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\HW10 - MergeSort\HW10 - MergeSort\bin\Debug\HW10 - MergeSort.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\HW10 - MergeSort\HW10 - MergeSort\bin\Debug\HW10 - MergeSort.pdb
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\HW10 - MergeSort\HW10 - MergeSort\obj\Debug\HW10 - MergeSort.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\HW10 - MergeSort\HW10 - MergeSort\obj\Debug\HW10 - MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\HW10 - MergeSort\HW10 - MergeSort\obj\Debug\HW10 - MergeSort.exe
+C:\Users\Sophie\Documents\Visual Studio 2017\Fall 2018\CptS 321 (Crandall)\HW10 - MergeSort\HW10 - MergeSort\obj\Debug\HW10 - MergeSort.pdb

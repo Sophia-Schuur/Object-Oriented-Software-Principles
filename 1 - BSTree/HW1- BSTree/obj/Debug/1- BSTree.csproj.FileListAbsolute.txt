@@ -1,0 +1,14 @@
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\Homework 1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.exe.config
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\Homework 1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.exe
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\Homework 1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.pdb
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\Homework 1 - BSTree\HW1- BSTree\obj\Debug\1- BSTree.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\Homework 1 - BSTree\HW1- BSTree\obj\Debug\1- BSTree.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\Homework 1 - BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.exe
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\Homework 1 - BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.pdb
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.exe.config
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.exe
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\1 - BSTree\HW1- BSTree\bin\Debug\HW1- BSTree.pdb
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\1 - BSTree\HW1- BSTree\obj\Debug\1- BSTree.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\1 - BSTree\HW1- BSTree\obj\Debug\1- BSTree.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\1 - BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.exe
+C:\Users\Sophie\Desktop\New folder (4)\Object-Oriented-Software-Principles\1 - BSTree\HW1- BSTree\obj\Debug\HW1- BSTree.pdb
