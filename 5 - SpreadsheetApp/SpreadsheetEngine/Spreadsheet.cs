@@ -12,7 +12,7 @@ namespace CptS321
 {
     public class Spreadsheet
     {
-        //getters/setters (properties)
+        //getters/setters (autoproperties)
         public int RowCount { get; set; }
         public int ColCount { get; set; }
 
