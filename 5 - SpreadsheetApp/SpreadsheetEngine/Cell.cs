@@ -9,6 +9,7 @@ namespace /*SpreadsheetEngine*/ CptS321
 {
     public abstract class Cell : INotifyPropertyChanged
     {
+        //fields
         private readonly int rowIndex;
         private readonly int colIndex;
 
@@ -16,6 +17,7 @@ namespace /*SpreadsheetEngine*/ CptS321
         private string text;
         private string value;
 
+        //properties
         public int RowIndex
         {
             get
