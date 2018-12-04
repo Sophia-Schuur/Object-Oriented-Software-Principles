@@ -12,10 +12,11 @@ namespace CptS321
 {
     public class Spreadsheet
     {
-        //getters/setters
+        //getters/setters (properties)
         public int RowCount { get; set; }
         public int ColCount { get; set; }
 
+        //fields
         public Cell[,] CellsArray;    //2D array of cells, empty        
         public event PropertyChangedEventHandler CellPropertyChanged;
         private Dictionary<Cell, List<Cell>> dependencies;  //holds a dictionary of depenendencies of any given cell
