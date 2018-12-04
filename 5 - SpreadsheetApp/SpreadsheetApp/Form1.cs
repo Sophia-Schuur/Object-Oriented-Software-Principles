@@ -1,6 +1,5 @@
 ﻿/*Sophia Schuur
   CptS 321
-  Homework 7
   Start: 10/29/2018
   Current: 12/3/2018
 
