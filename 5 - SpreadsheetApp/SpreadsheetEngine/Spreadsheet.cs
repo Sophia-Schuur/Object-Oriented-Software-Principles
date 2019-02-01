@@ -224,7 +224,7 @@ namespace CptS321
                 int RandRowIndex = rand.Next(0, 50);
                 int RandColIndex = rand.Next(2, 26);
 
-                CellsArray[RandRowIndex, RandColIndex].Text = "EatPant";
+                CellsArray[RandRowIndex, RandColIndex].Text = "HelloWorld";
 
             }
             //set all B1 rows 
